@@ -234,4 +234,8 @@
     flex-direction: column;
     gap: 1.6rem;
   }
+
+  .copyright p {
+    text-align: center;
+  }
 }

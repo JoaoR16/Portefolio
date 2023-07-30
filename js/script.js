@@ -3,6 +3,14 @@ const yearEl = document.querySelector(".year");
 const currentYear = new Date().getFullYear();
 yearEl.textContent = currentYear;
 
+// mobile nav
+const btnNavEl = document.querySelector(".btn-mobile");
+const headerEl = document.querySelector(".header-nav-box");
+
+btnNavEl.addEventListener("click", function () {
+  headerEl.classList.toggle("nav-open");
+});
+
 //smooth scrooling
 const allLinks = document.querySelectorAll(".header-nav-link");
 allLinks.forEach(function (link) {
@@ -24,7 +32,7 @@ allLinks.forEach(function (link) {
     }
 
     //scrol mobile nav
-    if (link.classList.contains("main-nav-link"))
+    if (link.classList.contains("header-nav-link"))
       headerEl.classList.toggle("nav-open");
   });
 });

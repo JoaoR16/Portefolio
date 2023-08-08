@@ -297,7 +297,7 @@ header {
 }
 
 .project-img-box {
-  max-width: 600px;
+  max-width: 473px;
   height: 325px;
   border-radius: 16px;
   overflow: hidden;
@@ -309,7 +309,7 @@ header {
 }
 
 .project-img {
-  max-width: 473px;
+  width: 100%;
 }
 
 .project-text-content {

@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Sobre",
+    "projects": "Projectos",
+    "contacts": "Contatos"
+  },
+  "hero": {
+    "info": "Olá, o meu nome é João e sou um Junior FullStack Developer residente em Torres Vedras, Portugal. 📍"
+  },
+  "about": {
+    "title": "Um Junior FullStack Developer residente em Torres Vedras, Portugal.📍",
+    "subtitle": "Sobre Mim",
+    "text": "Enquanto Júnior Fullstack Developer ambiciono continuar a aprender e a crescer na área. Sou proficiente em HTML, CSS, JavaScript, PHP e MySQL. Sou profissional, responsável e dedicado. Gostaria de me juntar a uma equipada talentosa e contribuir com o meu conhecimento para o sucesso da empresa. Estou confiante de que poderei ser uma mais valia!"
+  },
+  "port": {
+    "title": "Os meus projetos mais desafiantes 👀",
+    "subtitle": "Portefólio",
+    "omni": "Website para uma emprensa ficticia chamada omnifood que vende refeições por subscrições.",
+    "sebas": "Projeto final do Curso FullStack Developer pela CodeMaster. Website do escritor Sebastião Alves.",
+    "code": "Código"
+  },
+  "contact": {
+    "title": "Vamos conversar!📞",
+    "subtitle": "Contatos",
+    "locationTitle": "Localização",
+    "locationText": "Torres Vedras, Portugal"
+  }
+}

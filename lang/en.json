@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Me",
+    "projects": "Projects",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "info": "Hi, my name is João and I am a Junior FullStack Developer based in Torres Vedras, Portugal. 📍"
+  },
+  "about": {
+    "title": "A Junior FullStack Developer based in Torres Vedras, Portugal.📍",
+    "subtitle": "About Me",
+    "text": "As a Junior Fullstack Developer, I strive to continue learning and growing in the field. I am proficient in HTML, CSS, JavaScript, PHP, and MySQL. I am professional, responsible, and dedicated. I would like to join a talented team and contribute my knowledge to the company's success. I am confident that I can be an asset!"
+  },
+  "port": {
+    "title": "My most challenging projects 👀",
+    "subtitle": "Portfolio",
+    "omni": "Website for a fictional company called Omnifood that sells meal subscriptions.",
+    "sebas": "Final project of the FullStack Developer Course by CodeMaster. Website of the writer Sebastião Alves.",
+    "code": "Code"
+  },
+  "contact": {
+    "title": "Let's talk!📞",
+    "subtitle": "Contacts",
+    "locationTitle": "Location",
+    "locationText": "Torres Vedras, Portugal"
+  }
+}
